@@ -1,4 +1,4 @@
-let canvas = document.getElementById("snake");
+let canvas = document.getElementById("snake"); //criando elemento que irá rodar o jogo
 let context = canvas.getContext("2d");
 let box = 32;
 let snake = [];
